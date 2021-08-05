@@ -804,6 +804,7 @@ void e_mainwindow::on_btn_add_engine_clicked()
         ui->cb_engines->addItem (new_engine);
         ui->cb_elock->addItem(new_engine);
         ui->cb_engines->setCurrentIndex(last_engine_selected);
+	ui->line_engine_path->setText(enyo_engines[engine_pointer].engine_binary_path);
         engine_pointer++;
     }
 }

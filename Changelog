@@ -1,5 +1,17 @@
 Enyo Launcher Changelog
 
+2.0.5 ("A true hero in the face of something so evil")
+
+Microsoft is pure evil and this update marks the triumphant return to Gitlab.
+
+But a couple things needed to be fixed:
+
+FIX: When adding a new engine,fixed the path to the previously selected engine
+remained until the new engine was re-selected.  It now correctly shows an
+empty path.
+
+FIX: Update cmake minimum version; previous minimum version was depreciated.
+
 2.0.4 ("The Stagnant Demesne")
 
 I have changed all other identifiers to the new name "Enyo Launcher".  The new binary name will be "enyo-launcher"; it may be necessary to uninstall completely the previous enyo-doom version to clear out all remnants of it.
