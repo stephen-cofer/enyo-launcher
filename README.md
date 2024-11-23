@@ -1,6 +1,8 @@
 Enyo Launcher (enyo-doom)
 =========
 
+This project is no longer maintained.  I recommend Doom Runner as a more complete simple Doom game launcher: https://github.com/Youda008/DoomRunner (not mine).
+
 Frontend for Doom engines
 
 Enyo Launcher is a GUI launcher for Doom engines. It is a relaunch of the gDoomsday project under a different name with more functionality. The source release is usable in any modern GNU/Linux distribution with Qt). The original release used GTK+, but was rewritten to use Qt for ease of maintenance and cross-platform compatibility.
